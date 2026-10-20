@@ -28,9 +28,9 @@ The analysis compares the one-year adjusted price returns of the three companies
 The results are historical observations and do not predict future stock performance.
 
 ## Project Files
-- "All_Stocks_Historical_Data.xlsx" — Historical stock price data
-
-- "Stock_Analysis_Report.pdf" — Final report for submission
+- * [All_Stocks_Historical_Data.xlsx](All_Stocks_Historical_Data.xlsx) — Historical stock price data
+* [Stock_Analysis_Report task 1.pdf](Stock_Analysis_Report%20task%201.pdf) — Final report for submission
+ — Final report for submission
 
 ## Disclaimer
 This project was prepared for educational purposes as part of a finance internship assignment. It is not financial or investment advice.
