@@ -13,6 +13,11 @@ To construct a hypothetical investment portfolio worth ₹1,00,000 using stocks,
 
 ## Deliverables
 - Portfolio spreadsheet
+- ## Portfolio Spreadsheet
+
+[View the Investment Portfolio Google Sheet](https://docs.google.com/spreadsheets/d/1louB5KiFZZiiXIpNUo85-h6fWHtduSOCOSz8-edDkRM/edit?gid=0#gid=0)
+
+The spreadsheet contains the hypothetical ₹1,00,000 portfolio allocation, investment rationale, market prices, quantities, and risk levels.
 - Investment rationale and risk analysis PDF
 
 ## Disclaimer
